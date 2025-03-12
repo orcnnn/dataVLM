@@ -1,0 +1,8 @@
+mouseDown(420, 216)
+drag(421, 218)
+drag(443, 238)
+drag(471, 313)
+drag(483, 438)
+drag(469, 488)
+drag(454, 515)
+mouseUp(450, 517)
