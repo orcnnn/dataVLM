@@ -1,0 +1,46 @@
+[
+    {'conversations': [{'role': 'user',
+        'value': '<image> Please draw a circle on this canvas.'},
+        {'role': 'assistant',
+            'value': 'mouseDown(425, 289)\r\ndrag(420, 266)\r\ndrag(415, 242)\r\ndrag(406, 220)\r\ndrag(392, 201)\r\ndrag(377, 182)\r\ndrag(357, 169)\r\ndrag(333, 160)\r\ndrag(313, 154)\r\ndrag(289, 154)\r\ndrag(264, 154)\r\ndrag(240, 160)\r\nmouseUp(220, 171)\r\n'},
+        {'role': 'user',
+            'value': '<image> Continue drawing circle to complete the artwork.'},
+        {'role': 'assistant',
+            'value': 'mouseDown(220, 171)\r\ndrag(201, 185)\r\ndrag(184, 200)\r\ndrag(172, 221)\r\ndrag(161, 240)\r\ndrag(153, 266)\r\ndrag(151, 289)\r\ndrag(154, 313)\r\ndrag(162, 334)\r\ndrag(169, 355)\r\ndrag(183, 374)\r\ndrag(202, 391)\r\nmouseUp(221, 407)\r\n'},
+        {'role': 'user',
+            'value': '<image> Keep filling in the missing parts of circle.'},
+        {'role': 'assistant',
+            'value': 'mouseDown(221, 407)\r\ndrag(241, 416)\r\ndrag(263, 422)\r\ndrag(287, 425)\r\ndrag(310, 422)\r\ndrag(335, 415)\r\ndrag(355, 405)\r\ndrag(377, 392)\r\ndrag(392, 374)\r\ndrag(407, 358)\r\ndrag(415, 334)\r\ndrag(422, 310)\r\nmouseUp(425, 289)\r\n'}],
+        'images': [
+            "data/cember/1/img1.jpg",
+            "data/cember/1/img2.jpg",
+            "data/cember/1/img3.jpg",
+            "data/cember/1/img4.jpg"]
+    },
+    {'conversations': [{'role': 'user',
+        'value': '<image> Could you produce a circle on the screen for me?'},
+        {'role': 'assistant',
+            'value': 'mouseDown(386, 255)\r\ndrag(382, 232)\r\ndrag(378, 208)\r\ndrag(366, 189)\r\ndrag(355, 167)\r\ndrag(339, 152)\r\ndrag(316, 137)\r\ndrag(297, 127)\r\ndrag(276, 123)\r\ndrag(249, 121)\r\ndrag(228, 123)\r\ndrag(205, 129)\r\ndrag(183, 137)\r\ndrag(164, 151)\r\ndrag(148, 166)\r\ndrag(136, 188)\r\ndrag(124, 209)\r\ndrag(121, 229)\r\nmouseUp(118, 255)\r\n'},
+        {'role': 'user',
+            'value': '<image> Keep filling in the missing parts of circle.'},
+        {'role': 'assistant',
+            'value': 'mouseDown(118, 255)\r\ndrag(118, 279)\r\ndrag(127, 299)\r\ndrag(136, 322)\r\ndrag(148, 341)\r\ndrag(164, 356)\r\ndrag(186, 370)\r\ndrag(204, 379)\r\ndrag(227, 386)\r\ndrag(252, 390)\r\ndrag(275, 385)\r\ndrag(295, 378)\r\ndrag(318, 371)\r\ndrag(339, 358)\r\ndrag(355, 342)\r\ndrag(367, 323)\r\ndrag(378, 300)\r\ndrag(384, 279)\r\nmouseUp(386, 255)\r\n'}],
+        'images': [
+            "data/cember/2/img1.jpg",
+            "data/cember/2/img2.jpg",
+            "data/cember/2/img3.jpg"]
+    },
+    {'conversations': [{'role': 'user',
+        'value': '<image> I need a circle; could you sketch one for me?'},
+        {'role': 'assistant',
+            'value': 'mouseDown(531, 410)\r\ndrag(529, 437)\r\ndrag(521, 466)\r\ndrag(507, 489)\r\ndrag(490, 514)\r\ndrag(473, 532)\r\ndrag(450, 551)\r\ndrag(422, 564)\r\ndrag(397, 569)\r\ndrag(367, 571)\r\ndrag(339, 570)\r\ndrag(310, 563)\r\ndrag(284, 551)\r\ndrag(262, 535)\r\ndrag(242, 514)\r\ndrag(224, 492)\r\ndrag(212, 463)\r\ndrag(205, 438)\r\nmouseUp(206, 408)\r\n'},
+        {'role': 'user',
+            'value': '<image> Continue drawing circle to complete your art.'},
+        {'role': 'assistant',
+            'value': 'mouseDown(206, 408)\r\ndrag(205, 382)\r\ndrag(213, 353)\r\ndrag(226, 328)\r\ndrag(244, 304)\r\ndrag(264, 285)\r\ndrag(286, 268)\r\ndrag(310, 256)\r\ndrag(339, 248)\r\ndrag(366, 246)\r\ndrag(394, 248)\r\ndrag(424, 256)\r\ndrag(449, 266)\r\ndrag(471, 284)\r\ndrag(492, 304)\r\ndrag(509, 327)\r\ndrag(521, 352)\r\ndrag(527, 381)\r\nmouseUp(531, 410)\r\n'}],
+        'images': [
+            "data/cember/3/img1.jpg",
+            "data/cember/3/img2.jpg",
+            "data/cember/3/img3.jpg"]
+    }
+]
